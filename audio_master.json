@@ -1,20 +1,23 @@
 {
   "version": 1,
   "audios": [
-    { "filename": "subuh.mp3", "title": "Suara Adzan Subuh" },
-    { "filename": "adzan1.mp3", "title": "Adzan Versi 1" },
-    { "filename": "adzan2.mp3", "title": "Adzan Versi 2" },
-    { "filename": "adzan3.mp3", "title": "Adzan Versi 3" },
-    { "filename": "adzan4.mp3", "title": "Adzan Versi 4" },
-    { "filename": "Adzan anak.mp3", "title": "Adzan Anak" },
-    { "filename": "Alarm extrem.mp3", "title": "Alarm Extrem" },
-    { "filename": "beep.mp3", "title": "Alarm Beep" },
-    { "filename": "Bedug.mp3", "title": "Suara Bedug" },
-    { "filename": "Bedug1.mp3", "title": "Suara Bedug 1" },
-    { "filename": "mutiara.mp3", "title": "Kata Mutiara" },
-    { "filename": "Janji.mp3", "title": "Janji" },
-    { "filename": "Kemenangan.mp3", "title": "Kemenangan" },
-    { "filename": "Dengarkan.mp3", "title": "Dengarkan" },
-    { "filename": "Perintah.mp3", "title": "Perintah" }
+    { "filename": "subuh.mp3", "title": "1. Suara Adzan Subuh" },
+    { "filename": "adzan1.mp3", "title": "2. Adzan Versi 1" },
+    { "filename": "adzan2.mp3", "title": "3. Adzan Versi 2" },
+    { "filename": "adzan3.mp3", "title": "4. Adzan Versi 3" },
+    { "filename": "adzan4.mp3", "title": "5. Adzan Versi 4" },
+    { "filename": "Adzan anak.mp3", "title": "6. Adzan Anak" },
+    { "filename": "Alarm extrem.mp3", "title": "7. Alarm Extrem" },
+    { "filename": "beep.mp3", "title": "8. Alarm Beep" },
+    { "filename": "Bedug.mp3", "title": "9. Suara Bedug" },
+    { "filename": "Bedug1.mp3", "title": "10. Suara Bedug 1" },
+    { "filename": "mutiara.mp3", "title": "11. Kata Mutiara" },
+    { "filename": "Janji.mp3", "title": "12. Janji" },
+    { "filename": "Kemenangan.mp3", "title": "13. Kemenangan" },
+    { "filename": "Dengarkan.mp3", "title": "14. Dengarkan" },
+    { "filename": "Perintah.mp3", "title": "15. Perintah" },
+    { "filename": "Duha.mp3", "title": "16. Duha" },
+    { "filename": "Ihsan.mp3", "title": "17. Ihsan" },
+    { "filename": "Sandaran.mp3", "title": "18. Sandaran" }
   ]
 }
